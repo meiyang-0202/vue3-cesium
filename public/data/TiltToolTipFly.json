@@ -1,0 +1,20 @@
+{
+  "ZGGG_ZBAA": {
+    "label": "ZGGG_ZBAA",
+    "longitude": 121.2278,
+    "latitude": 31.5336,
+    "visible": false,
+    "color": "green",
+    "dynamicPosition": true,
+    "clampToGround": false
+  },
+  "LAS_CNA": {
+    "label": "LAS_CNA",
+    "longitude": 116.235,
+    "latitude": 39.8,
+    "visible": false,
+    "color": "blue",
+    "dynamicPosition": true,
+    "clampToGround": false
+  }
+}

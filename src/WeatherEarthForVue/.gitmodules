@@ -1,0 +1,3 @@
+[submodule "src/WeatherEarthForVue"]
+	path = src/WeatherEarthForVue
+	url = https://hxgit.hxgis.com/newProTeam/WeatherEarthApiForVue.git

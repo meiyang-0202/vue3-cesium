@@ -1,0 +1,56 @@
+{
+  "上海站": {
+    "label": "上海站",
+    "longitude": 121.2278,
+    "latitude": 31.5336,
+    "visible": false,
+    "color": "green",
+    "contentAB": [
+      {
+        "label": "气温",
+        "value": 18,
+        "unit": "摄氏度"
+      },
+      {
+        "label": "风速",
+        "value": 3,
+        "unit": "米 / 秒"
+      }
+    ]
+  },
+  "北京站": {
+    "label": "北京站",
+    "longitude": 116.235,
+    "latitude": 39.8,
+    "visible": false,
+    "color": "blue",
+    "contentAB": [
+      {
+        "label": "气温",
+        "value": 29,
+        "unit": "摄氏度"
+      },
+      {
+        "label": "风速",
+        "value": 2,
+        "unit": "米/秒"
+      }
+    ],
+    "contentABC": [
+      {
+        "label": "气压",
+        "desc": "良",
+        "class": "label-tag data-value-status-g",
+        "value": 1009,
+        "unit": "帕"
+      },
+      {
+        "label": "能见",
+        "desc": "中",
+        "class": "label-tag data-value-status-r",
+        "value": 29,
+        "unit": "公里"
+      }
+    ]
+  }
+}
